@@ -14,3 +14,4 @@ let getJoke = () => {
 button.addEventListener("click",getJoke);
 
 getJoke();
+
